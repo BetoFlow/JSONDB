@@ -1,0 +1,18 @@
+{
+  "rooms":
+    {
+      "kitchen": {
+        "light1": "on",
+        "light2": "off",
+        "fan1": "on",
+        "TV": "on"
+      },
+      "bedroom": {
+        "light1": "on",
+        "light2": "off",
+        "fan1": "on",
+        "TV": "on"
+      }
+    }
+    
+}
